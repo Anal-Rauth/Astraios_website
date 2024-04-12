@@ -11,6 +11,7 @@ body {
     font-family: 'Arial', sans-serif;
     padding-top: 60px;
     background: url("./images/menupagebg.jpeg") no-repeat center fixed;
+    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
